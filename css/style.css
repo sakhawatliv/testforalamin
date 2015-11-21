@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+ }
+ p,h1,h2,button,{
+ 	vertical-align: center;
+ }
+ .main-wrapper{
+ 	width: 100%;
+ 	margin: 0 auto;
+
+ }
+ .pro-plan{
+ 	border: 1px solid black;
+ 	width: 18%;
+ 	margin: 40px;
+ 	float: left;
+
+ }
+ .pro-header{
+ 	background-color: #585858;
+ }
+ .pro-body{
+ 	background-color: #E6E6E6;
+ }
+ .pro-body ul{
+ 	list-style: none;
+ }
+ .pro-sub-body{
+ 	background-color: #FFFFFF;
+ }
+ .btn{
+ 	margin: 0 auto;
+ 	padding: 10px 10px 10px 30px;
+ }
+
+ button{
+ 	background-color: #80FF00;
+ 	width: 80%;
+ 	height: 30px;
+ 	color: #FFFFFF;
+ 	display: block;
+ 	position: relative;
+ 	text-align: center;
+ 	padding: 10px;
+ }
